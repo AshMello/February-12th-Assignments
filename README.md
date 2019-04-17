@@ -1,1 +1,1 @@
-# Practicing algorithms in Python.
+**Practicing algorithms in Python.**
